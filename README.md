@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="error" width="500"></img></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="error" width="800px" height="500px"></img></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha050412&label=Profile%20views&color=0e75b6&style=flat" alt="sneha050412" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sneha050412&label=Profile%20views&color=0e75b6&style=flat" alt="sneha050412" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha050412" alt="sneha050412" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha050412" alt="sneha050412" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
